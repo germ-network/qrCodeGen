@@ -1,0 +1,1 @@
+Swift playground QR code generator
